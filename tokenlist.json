@@ -1,0 +1,18 @@
+{
+  "tokens": [
+    {
+      "chainId": 101,
+      "address": "GLWbyWDEBmSTG6aJj41E73Mq2RvCJUhYrmtnhWNTkE7D",
+      "symbol": "FES",
+      "name": "Farlands Eth Sol",
+      "decimals": 4,
+      "logoURI": "https://salmon-immediate-marten-396.mypinata.cloud/ipfs/bafkreiguxxchganw7boattkm2jdeopuq7rx2u2wqm54swvsalbrrncjysu",
+      "tags": [],
+      "extensions": {
+        "website": "https://farlands.world",
+        "description": "A bridge token for Farlands Eth-Sol",
+      }
+    }
+  ]
+}
+
